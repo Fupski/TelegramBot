@@ -1,0 +1,4 @@
+﻿id;counterparty_id;full_name;position;phone_work;phone_mobile1;phone_mobile2;email1;email2;viber;telegram;notes;created_at;updated_at
+e68d4251-f234-4546-94fb-503ed49feb0f;b0f74c42-71fe-450e-88ff-50a49e39941a;Зубенко Михаил Петрович;Секретарь;+375 29 1231231;-;;zubenkomafioznik@gmail.com;;;;;2026-03-02 15:09:32.704364+00:00;
+56e3b9f0-6077-4ddc-8221-074e60430184;b7b16dba-2691-494a-835b-08cd50b5ad7f;Глеб Глебыч Глебов;Директор;+375 33 44444444;-;;glebik@gmail.com;;;;;2026-03-02 16:01:24.607493+00:00;
+703c2114-b608-4458-b9bd-f471cb842ce0;b7b16dba-2691-494a-835b-08cd50b5ad7f;Владимир Владимирович Владов;Бухгалтер;+375 33 7777777;-;;buhvlad@gmail.com;;;;;2026-03-02 16:03:11.162409+00:00;

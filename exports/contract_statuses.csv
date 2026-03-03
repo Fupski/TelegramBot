@@ -1,0 +1,10 @@
+﻿id;name;code
+1;Проект;project
+2;Действующий;active
+3;Проект - аннулирован;project_canceled
+4;Успешно завершен;success
+5;Не успешно завершен;failed
+6;Временно приостановлен;suspended
+7;Сорваны сроки;deadline_missed
+8;Истек срок;expired
+9;Бездействие;inactive

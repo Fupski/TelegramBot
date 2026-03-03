@@ -1,0 +1,3 @@
+﻿id;party_type;full_name;short_name;unp;legal_address;actual_address;postal_address;director_position;director_full_name;passport_series;passport_issue_date;passport_issued_by;identification_number;citizenship;registration_address;actual_residence;client_type;is_employee;description;created_at;updated_at
+b0f74c42-71fe-450e-88ff-50a49e39941a;legal;ИП Кабан Кабаныч;;123456789;220000, г. Минск, ул. Ленина, д. 10, офис 25;;;;;;;;;;;;;False;;2026-02-24 15:06:39.621413+00:00;
+b7b16dba-2691-494a-835b-08cd50b5ad7f;legal;ИП ГлебГлебыч;;122345678;220001, г. Минск, ул. Ленина, д. 23, офис 11;;;;;;;;;;;;;False;;2026-03-02 16:00:18.999227+00:00;

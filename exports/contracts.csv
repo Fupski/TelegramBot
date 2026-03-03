@@ -1,0 +1,2 @@
+﻿id;contract_number;post_number;contract_type_id;counterparty_id;status_id;conclusion_date;place_of_conclusion;validity_period_type;expiry_date;estimated_completion_date;total_amount;signed_by_contact_id;signed_by_basis;file_link;created_at;updated_at
+6b045872-9d24-4123-9938-679bde6b2dcc;123445;7/19;1;b0f74c42-71fe-450e-88ff-50a49e39941a;2;2026-01-02;;condition;;2026-06-12;1500.85;;;;2026-03-02 16:15:51.875532+00:00;

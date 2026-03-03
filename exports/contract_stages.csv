@@ -1,0 +1,2 @@
+﻿id;contract_id;stage_number;name;expected_result;confirmation_document;payment_condition_id;prepayment_percent;prepayment_days;final_payment_days;amount;created_at;updated_at
+05cb62d7-0d15-49c8-94ef-a9dd25a337c6;6b045872-9d24-4123-9938-679bde6b2dcc;1;задержка поставки;поставка до 05.03.2026;;3;40.00;15;40;850.00;2026-03-02 16:17:51.253204+00:00;
